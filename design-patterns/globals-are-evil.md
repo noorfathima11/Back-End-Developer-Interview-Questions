@@ -29,3 +29,4 @@ class Player {
 
 My notes:
 - https://mkatkoot.wordpress.com/2014/02/09/why-global-variables-are-evil-in-javascript/
+- https://www.youtube.com/playlist?list=PL_DQiOR0jhbU_vrNhdAfe3KWPiiX38VLZ
